@@ -1,0 +1,59 @@
+h2 {
+    margin: auto;
+}
+   div {
+    margin-top: 2px;
+    text-align: center;
+}
+
+
+
+.container{
+    width: auto;
+}
+.header {
+    background: #b36123;
+    height: 150px;
+}
+.navigation{
+    background: #000000;
+    height: 40px;
+}
+.content{
+    background: #85D6E5;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+.sidebar{
+    background: #0471bf;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    background: #6c0068;
+    height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
